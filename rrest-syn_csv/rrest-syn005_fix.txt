@@ -1,6 +1,0 @@
-rrest-syn005
-Signals: Pleth, simulated finger PPG; and II, simulated ECG
-Sampling frequency: 500 Hz
-Respiratory modulation type: BW
-Simulated respiratory rate: 12 breaths/min
-Simulated heart rate: 80 beats/min
